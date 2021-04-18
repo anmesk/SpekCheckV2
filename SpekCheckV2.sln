@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpekCheckV2", "SpekCheckV2.csproj", "{BBCF10C7-AF94-4821-8636-B2670DAFD0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCF10C7-AF94-4821-8636-B2670DAFD0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCF10C7-AF94-4821-8636-B2670DAFD0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCF10C7-AF94-4821-8636-B2670DAFD0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCF10C7-AF94-4821-8636-B2670DAFD0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD39F060-F6E7-4759-ACF4-0F57FF0D4CE6}
+	EndGlobalSection
+EndGlobal
