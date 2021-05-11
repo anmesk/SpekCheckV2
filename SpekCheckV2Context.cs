@@ -13,5 +13,9 @@ namespace SpekCheckV2
         public DbSet<Song> Songs { get; set; }
         public DbSet<Album> Albums { get; set; }
         public DbSet<Artist> Artists { get; set; }
-    }
+
+        public SpekCheckV2Context(DbContextOptions<SpekCheckV2Context> options) : base(options)
+        {
+        }
+}
 }
